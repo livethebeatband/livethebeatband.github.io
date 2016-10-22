@@ -1,6 +1,6 @@
 ---
 layout: page
-title: testing inline HTML
+title: audio test with Inline HTML
 ---
 This page is a test for our Music page. Only the band's technical team are allowed on this page.
 <audio controls>
