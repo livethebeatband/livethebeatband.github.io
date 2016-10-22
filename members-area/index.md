@@ -10,11 +10,13 @@ Please enter your pin:
 
 <script>
 function checkPin() {
-    var pin = document.getElementById("myPin").value;
-    if (pin = 1678) {
-      window.open("https://livethebeatband.github.io/members-area/daniel");
-    } else {
-      alert("That is not a valid pin. Access denied! Try again!");
-    }
+  var pin = document.getElementById("myPin").value;
+  if (pin = 1678) {
+    window.open("https://livethebeatband.github.io/members-area/daniel");
+  } else if (pin = 3682) {
+    window.open("https://livethebeatband.github.io/members-area/william");
+  } else {
+    alert("That is not a valid pin. Access denied! Try again!");
+  }
 }
 </script>
