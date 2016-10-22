@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Daniel
 permalink: /members-area/daniel/
 ---
 <h1> Daniel </h1>
