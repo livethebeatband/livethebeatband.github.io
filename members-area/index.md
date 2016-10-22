@@ -6,7 +6,7 @@ permalink: /members-area/
 Please enter your pin:
 <input type="password" id="myPin">
 
-<button onclick="checkPin)">Submit pin</button>
+<button onclick="checkPin()">Submit pin</button>
 
 <script>
 function checkPin() {
