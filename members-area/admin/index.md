@@ -10,37 +10,37 @@ Any important information will appear here:
 No information available
 <br/>
 Daniel's notes:
-
+<br/>
 <textarea id="Daniel's notes" rows="4" cols="50">
 </textarea>
 <br/>
 William's notes:
-
+<br/>
 <textarea id="William's notes" rows="4" cols="50">
 </textarea>
 <br/>
 Astrid's notes:
-
+<br/>
 <textarea id="Astrid's notes" rows="4" cols="50">
 </textarea>
 <br/>
 Helen's notes:
-
+<br/>
 <textarea id="Helen's notes" rows="4" cols="50">
 </textarea>
 <br/>
 Rohan's notes:
-
+<br/>
 <textarea id="Rohan's notes" rows="4" cols="50">
 </textarea>
 <br/>
 Joseph's notes:
-
+<br/>
 <textarea id="Joseph's notes" rows="4" cols="50">
 </textarea>
 <br/>
 Michael's notes:
-
+<br/>
 <textarea id="Michael's notes" rows="4" cols="50">
 </textarea>
 
