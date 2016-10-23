@@ -7,3 +7,8 @@ permalink: /members-area/daniel/
 Any important information will appear here:
 
 No information available
+
+<textarea rows="4" cols="50">
+Make any notes you need, here:
+</textarea>
+
