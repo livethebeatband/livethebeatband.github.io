@@ -8,37 +8,37 @@ permalink: /members-area/admin/
 Any important information will appear here:
 
 No information available
-
+<br/>
 Daniel's notes:
 
 <textarea id="Daniel's notes" rows="4" cols="50">
 </textarea>
-
+<br/>
 William's notes:
 
 <textarea id="William's notes" rows="4" cols="50">
 </textarea>
-
+<br/>
 Astrid's notes:
 
 <textarea id="Astrid's notes" rows="4" cols="50">
 </textarea>
-
+<br/>
 Helen's notes:
 
 <textarea id="Helen's notes" rows="4" cols="50">
 </textarea>
-
+<br/>
 Rohan's notes:
 
 <textarea id="Rohan's notes" rows="4" cols="50">
 </textarea>
-
+<br/>
 Joseph's notes:
 
 <textarea id="Joseph's notes" rows="4" cols="50">
 </textarea>
-
+<br/>
 Michael's notes:
 
 <textarea id="Michael's notes" rows="4" cols="50">
