@@ -2,7 +2,7 @@
 layout: page
 permalink: /members-area/daniel/
 ---
-<body onpagehide="unload()" onpageshow="load()">
+<body onbeforeunload="unload()" onpageshow="load()">
 <h1> Daniel </h1>
 
 Any important information will appear here:
