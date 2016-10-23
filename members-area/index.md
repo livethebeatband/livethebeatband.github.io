@@ -15,6 +15,14 @@ function checkPin() {
     window.open("https://livethebeatband.github.io/members-area/daniel");
   } else if (pin == 3682) {
     window.open("https://livethebeatband.github.io/members-area/william");
+  } else if (pin == 4830) {
+    window.open("https://livethebeatband.github.io/members-area/astrid");
+  } else if (pin == 8902) {
+    window.open("https://livethebeatband.github.io/members-area/helen");
+  } else if (pin == 5267) {
+    window.open("https://livethebeatband.github.io/members-area/rohan");
+  } else if (pin == 2567) {
+    window.open("https://livethebeatband.github.io/members-area/joseph");
   } else {
     alert("That is not a valid pin. Access denied! Try again!");
   }
