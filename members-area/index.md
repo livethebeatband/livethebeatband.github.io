@@ -23,6 +23,10 @@ function checkPin() {
     window.open("https://livethebeatband.github.io/members-area/rohan");
   } else if (pin == 2567) {
     window.open("https://livethebeatband.github.io/members-area/joseph");
+  } else if (pin == 4382) {
+    window.open("https://livethebeatband.github.io/members-area/michael");
+  } else if (pin == 6518) {
+    window.open("https://livethebeatband.github.io/members-area/admin");
   } else {
     alert("That is not a valid pin. Access denied! Try again!");
   }
