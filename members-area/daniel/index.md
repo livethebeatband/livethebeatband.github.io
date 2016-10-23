@@ -16,6 +16,7 @@ No information available
 <script>
   function load() {
     document.getElementById("notes").innerHTML = localStorage.getItem("text-box"); 
+  }
   function unload() {
     localStorage.setItem("text-box", document.getElementById("notes").innerHTML);
   }
