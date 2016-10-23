@@ -10,6 +10,6 @@ No information available
 
 Make any notes you need, here:
 <textarea rows="4" cols="50">
-Make any notes you need, here:
+
 </textarea>
 
