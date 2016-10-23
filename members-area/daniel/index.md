@@ -10,7 +10,7 @@ Any important information will appear here:
 
   <ul class="post-list">
 
-    {% for post in site.daniels_posts %}
+    {% for post in site.daniel %}
 
       <li>
 
