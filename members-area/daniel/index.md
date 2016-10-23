@@ -17,9 +17,9 @@ No information available
 
 <script>
   function load() {
-    document.getElementById("Daniel's notes").innerHTML = localStorage.getItem("text-box"); 
+    document.getElementById("Daniel's notes").innerHTML = localStorage.getItem("Daniel's text-box"); 
   }
   function unload() {
-    localStorage.setItem("text-box", document.getElementById("Daniel's notes").innerHTML);
+    localStorage.setItem("Daniel's text-box", document.getElementById("Daniel's notes").innerHTML);
   }
   </script>
