@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Band Member's Area
+title: Band Members' Area
 permalink: /members-area/
 ---
 Please enter your pin:
