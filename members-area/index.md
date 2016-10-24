@@ -12,7 +12,7 @@ Please enter your pin:
 function checkPin() {
   var pin = document.getElementById("myPin").value;
   if (pin == 1678) {
-    window.open("https://livethebeatband.github.io/members-area/daniel", _self);
+    window.open("https://livethebeatband.github.io/members-area/daniel", "_self");
   } else if (pin == 3682) {
     window.open("https://livethebeatband.github.io/members-area/william");
   } else if (pin == 4830) {
