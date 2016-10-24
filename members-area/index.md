@@ -14,19 +14,19 @@ function checkPin() {
   if (pin == 1678) {
     window.open("https://livethebeatband.github.io/members-area/daniel", "_self");
   } else if (pin == 3682) {
-    window.open("https://livethebeatband.github.io/members-area/william");
+    window.open("https://livethebeatband.github.io/members-area/william", "_self");
   } else if (pin == 4830) {
-    window.open("https://livethebeatband.github.io/members-area/astrid");
+    window.open("https://livethebeatband.github.io/members-area/astrid", "_self");
   } else if (pin == 8902) {
-    window.open("https://livethebeatband.github.io/members-area/helen");
+    window.open("https://livethebeatband.github.io/members-area/helen", "_self");
   } else if (pin == 5267) {
-    window.open("https://livethebeatband.github.io/members-area/rohan");
+    window.open("https://livethebeatband.github.io/members-area/rohan", "_self");
   } else if (pin == 2567) {
-    window.open("https://livethebeatband.github.io/members-area/joseph");
+    window.open("https://livethebeatband.github.io/members-area/joseph", "_self");
   } else if (pin == 4382) {
-    window.open("https://livethebeatband.github.io/members-area/michael");
+    window.open("https://livethebeatband.github.io/members-area/michael", "_self");
   } else if (pin == 6518) {
-    window.open("https://livethebeatband.github.io/members-area/admin");
+    window.open("https://livethebeatband.github.io/members-area/admin", "_self");
   } else {
     alert("That is not a valid pin. Access denied! Try again!");
   }
