@@ -2,7 +2,7 @@
 layout: page
 permalink: /members-area/admin/
 ---
-<body onpageshow="load()">
+<body onpageshow="load()" onbeforeunload="unload()">
 <h1> Admin </h1>
 
 Any important information will appear here:
