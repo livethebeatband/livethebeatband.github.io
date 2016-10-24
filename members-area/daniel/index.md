@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /members-area/daniel/
+permalink: /members-area/hidden-address-672824319/
 ---
 <body onbeforeunload="unload()" onpageshow="load()">
 <h1> Daniel </h1>
