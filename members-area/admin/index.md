@@ -54,4 +54,13 @@ Michael's notes:
     document.getElementById("Joseph's notes").innerHTML = localStorage.getItem("Joseph's text-box"); 
     document.getElementById("Michael's notes").innerHTML = localStorage.getItem("Michael's text-box"); 
   }
+  function unload() {
+    localStorage.setItem("Daniel's text-box", document.getElementById("Daniel's notes").innerHTML);
+    localStorage.setItem("William's text-box", document.getElementById("William's notes").innerHTML);
+    localStorage.setItem("Astrid's text-box", document.getElementById("Astrid's notes").innerHTML);
+    localStorage.setItem("Helen's text-box", document.getElementById("Helen's notes").innerHTML);
+    localStorage.setItem("Rohan's text-box", document.getElementById("Rohan's notes").innerHTML);
+    localStorage.setItem("Joseph's text-box", document.getElementById("Joseph's notes").innerHTML);
+    localStorage.setItem("Michael's text-box", document.getElementById("Michael's notes").innerHTML);
+  }
   </script>
