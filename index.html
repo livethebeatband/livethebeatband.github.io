@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home" style="background: url(treble-clef.png)">
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list" style="background: url(treble-clef.png)">
+  <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
