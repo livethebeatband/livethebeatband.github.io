@@ -8,7 +8,7 @@ Please enter your pin:
 
 <button onclick="checkPin()">Submit pin</button>
 
-<p>Please note: Your note boxes will not work in iOS or Chrome and you can only access them on the same browser.</p>
+<p>Please note: Your note boxes will not work in iOS or Chrome and you can only access them on the same browser, on the same computer.</p>
 <script>
 function checkPin() {
   var pin = document.getElementById("myPin").value;
