@@ -14,8 +14,8 @@ function checkPin() {
   var pin = document.getElementById("myPin").value;
   if (pin == 1678) {
     window.open("https://livethebeatband.github.io/members-area/daniel", "_self");
-  <!--} else if (pin == 3682) {
-    window.open("https://livethebeatband.github.io/members-area/william", "_self");-->
+  /*} else if (pin == 3682) {
+    window.open("https://livethebeatband.github.io/members-area/william", "_self");*/
   } else if (pin == 4830) {
     window.open("https://livethebeatband.github.io/members-area/astrid", "_self");
   } else if (pin == 8902) {
