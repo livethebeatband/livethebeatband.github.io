@@ -3,3 +3,5 @@ layout: post
 title: New songs!
 ---
 We are doing two new songs. One is Skyfall by Adele. The other is All I Want for Christmas is You chosen especially for the season. It is going to be amazing!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DeumyOzKqgI?rel=0" frameborder="0" allowfullscreen></iframe>
