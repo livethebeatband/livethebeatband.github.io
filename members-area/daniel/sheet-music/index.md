@@ -7,4 +7,4 @@ Sheet music associated with the band will appear here:
 
 ![Random No1](Random No1.png)
 
-<img src="Random No1.png" download>
+<a href="Random No1.png" download><img src="Random No1.png"></a>
