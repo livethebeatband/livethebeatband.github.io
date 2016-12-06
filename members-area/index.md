@@ -26,6 +26,8 @@ function checkPin() {
     window.open("https://livethebeatband.github.io/members-area/joseph", "_self");
   } else if (pin == 4382) {
     window.open("https://livethebeatband.github.io/members-area/michael", "_self");
+  } else if (pin == 6423) {
+    window.open("https://livethebeatband.github.io/members-area/ollie", "_self");
   } else if (pin == 6518) {
     window.open("https://livethebeatband.github.io/members-area/admin", "_self");
   } else {
