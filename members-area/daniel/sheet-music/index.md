@@ -9,4 +9,4 @@ Sheet music associated with the band will appear here:
 
 <a href="Daniel.pdf" download><object type="application/pdf" data="Daniel.pdf" width="400" height="400"></object></a>
 
-<embed type="appliction/pdf" src="Daniel.pdf"></embed>
+<embed type="application/pdf" src="Daniel.pdf">
