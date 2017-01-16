@@ -60,6 +60,9 @@ $on-laptop:        800px;
             padding: 10px;
             border: 2px solid black;
             box-shadow: 5px 5px gray;
-            margin-left: 35%;
-            margin-right: 35%;
-        }
+}
+
+.button:hover {
+            color: blue;
+            background-color: #33ccff;
+}
