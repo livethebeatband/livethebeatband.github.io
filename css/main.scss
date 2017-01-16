@@ -51,3 +51,15 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Button styles
+.button {
+            text-decoration: none;
+            color: #000099;
+            background-color: lightgray;
+            padding: 10px;
+            border: 2px solid black;
+            box-shadow: 5px 5px gray;
+            margin-left: 35%;
+            margin-right: 35%;
+        }
