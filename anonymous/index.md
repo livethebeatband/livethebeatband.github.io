@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sister Website - Anonymous!
+title: Anonymous
 permalink: /anonymous/
 ---
 
