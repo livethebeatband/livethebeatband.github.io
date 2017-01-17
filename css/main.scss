@@ -66,12 +66,3 @@ $on-laptop:        800px;
             color: blue;
             background-color: #33ccff;
 }
-
-// Link highlighting
-
-a[href="/anonymous/"] {
-    background: -webkit-radial-gradient(orange, white); /* Safari 5.1-6.0 */
-    background: -o-radial-gradient(red 5%, yellow 15%, green 60%); /* For Opera 11.6-12.0 */
-    background: -moz-radial-gradient(red 5%, yellow 15%, green 60%); /* For Firefox 3.6-15 */
-    background: radial-gradient(red 5%, yellow 15%, green 60%); /* Standard syntax */
-}
